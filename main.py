@@ -6,7 +6,7 @@ from google.genai import types
 from pypdf import PdfReader
 
 # 1. API Key directly configured
-api_key = "AQ.Ab8RN6LyGIg7yzj80YEihRkv9tnjvqHjc4ESeAwO2dmGyMjJaA"
+api_key = "your api key"
 
 # 2. Page Configuration
 st.set_page_config(
